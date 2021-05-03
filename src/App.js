@@ -1,6 +1,5 @@
 import React from "react";
 import { HashRouter as Router, Route, Link } from "react-router-dom";
-import Contact from "./pages/Contact";
 import Index from "./pages/Index";
 import Projects from "./pages/Portfolio";
 import Navibar from "./components/Navbar";
@@ -19,7 +18,7 @@ function App() {
 
           <Route exact path="/" component={Index} />
           <Route exact path="/index" component={Index} />
-          <Route exact path="/contact" component={Contact} />
+  
           <Route exact path="/projects" component={Projects} />
 
         </Wrapper>

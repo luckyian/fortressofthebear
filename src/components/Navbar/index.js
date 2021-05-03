@@ -9,7 +9,7 @@ function Navibar() {
     return (
         <Navbar expand="md" className="navibar" className="navitext">
             <div className="col-md-9">
-                <Navbar.Brand href="#"  >I've Gotta Guy</Navbar.Brand>
+                <Navbar.Brand href="#"  >Band Name</Navbar.Brand>
                 <Navbar.Toggle  className="float-right" type="button" data-toggle="collapse"
                     data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                     aria-label="Toggle navigation" />
@@ -18,7 +18,6 @@ function Navibar() {
                 <Navbar.Collapse id="navbarNavAltMarkup">
                     <Nav>
                         <Nav.Link href="/Tom/#/index" >Home</Nav.Link>
-                        <Nav.Link href="/Tom/#/contact" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Contact</Nav.Link>
                         <Nav.Link href="/Tom/#/projects" >Projects</Nav.Link>
                         <Nav.Link href="#" className="nav-link" tabindex="3" aria-disabled="true"> </Nav.Link>
                     </Nav>
