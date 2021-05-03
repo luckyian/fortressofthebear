@@ -11,30 +11,25 @@ function Music() {
     return (
         <Card className="aboutBack">
         <Card.Body>
-          <Card.Title><h1><u>Tom Stegeman</u></h1></Card.Title>
-          <div className="float-left" >
-            <Card.Img src=".\assets\handyman.jpg" className="p-2" alt="Tom"></Card.Img>
+          <Card.Title><h1><u>Music</u></h1></Card.Title>
+          <div >
+            <Card.Img src=".\assets\cambodianrockband.jpg" className="p-2" alt="Music"></Card.Img>
           </div>
           <div>
          <p>
-           Hi! I'm Tom and I'm a handyman, do construction and provide landscape services.
+           
          <br></br>
+         <h4>Song 1</h4>
          <br></br>
-         I have worked building and maintaining various sctructures over the last 15 years.
+         <h4>Song 2</h4>
          <br></br>
-         <br></br>
-         Growing up on a farm taught me the skills I use and honed my work-ethic.  I work hard, and I can work hard for
-         you on any projects you need done or repairs to existing plan or design.
-         <br></br>
-         <br></br>
-         More words to describe yourself here.
+         <h4>Song 3</h4>
          </p>
          <br></br>
-         <br></br>
+         
          <p>
-              <h3><u>Contact Info</u></h3>
-              <h4>Email: ivegottaguyseattle@gmail.com</h4>
-              <h4>Phone: 206-739-6775</h4>
+              <h3>Available on iTunes</h3>
+              
              
 
           </p>

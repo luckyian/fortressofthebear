@@ -11,30 +11,24 @@ function Tour() {
     return (
         <Card className="aboutBack">
         <Card.Body>
-          <Card.Title><h1><u>Tom Stegeman</u></h1></Card.Title>
-          <div className="float-left" >
-            <Card.Img src=".\assets\handyman.jpg" className="p-2" alt="Tom"></Card.Img>
+          <Card.Title><h1><u>Tour</u></h1></Card.Title>
+          <div >
+            <Card.Img src=".\assets\ontour.png" className="p-2" alt="Touring"></Card.Img>
           </div>
           <div>
          <p>
-           Hi! I'm Tom and I'm a handyman, do construction and provide landscape services.
+         <h3>Seattle - 8/12 8pm - The Crocodile</h3>
          <br></br>
+         <h3>Portland - 8/13 8pm - The Rose Theater</h3>
          <br></br>
-         I have worked building and maintaining various sctructures over the last 15 years.
+           <h3>Sacramento - 8/15 9pm - Getty's Bar</h3>
          <br></br>
-         <br></br>
-         Growing up on a farm taught me the skills I use and honed my work-ethic.  I work hard, and I can work hard for
-         you on any projects you need done or repairs to existing plan or design.
-         <br></br>
-         <br></br>
-         More words to describe yourself here.
+           <h3>Oakland - 8/16 9pm - Shaker's Saloon</h3>
          </p>
          <br></br>
          <br></br>
          <p>
-              <h3><u>Contact Info</u></h3>
-              <h4>Email: ivegottaguyseattle@gmail.com</h4>
-              <h4>Phone: 206-739-6775</h4>
+              
              
 
           </p>
