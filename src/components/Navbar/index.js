@@ -18,8 +18,11 @@ function Navibar() {
                 <Navbar.Collapse id="navbarNavAltMarkup">
                     <Nav>
                         <Nav.Link href="/Tom/#/index" >Home</Nav.Link>
-                        <Nav.Link href="/Tom/#/projects" >Projects</Nav.Link>
-                        <Nav.Link href="#" className="nav-link" tabindex="3" aria-disabled="true"> </Nav.Link>
+                        <Nav.Link href="/Tom/#/videos" >Videos</Nav.Link>
+                        <Nav.Link href="/Tom/#/store" >Store</Nav.Link>
+                        <Nav.Link href="/Tom/#/contact" >Contact</Nav.Link>
+                        <Nav.Link href="/Tom/#/login" >Join</Nav.Link>
+                        <Nav.Link href="#" className="nav-link" tabindex="5" aria-disabled="true"> </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </div>
