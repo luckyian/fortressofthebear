@@ -7,5 +7,20 @@
 }
 
 .aboutBack {
-    background: radial-gradient(circle, #b0c9af, #afc9c9, #afb8c9);
+    background: radial-gradient(circle, #b0c9af, #414152, #161617);
 }
+
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+  }
+  
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }

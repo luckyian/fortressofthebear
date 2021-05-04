@@ -1,4 +1,4 @@
-import React, {Link} from "react";
+import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
@@ -10,7 +10,7 @@ function Music() {
 
     return (
         <Card className="aboutBack">
-        <Card.Body>
+        <Card.Body className="text">
           <Card.Title><h1><u>Music</u></h1></Card.Title>
           <div>
          <p>

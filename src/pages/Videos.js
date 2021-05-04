@@ -5,49 +5,54 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 
-function Projects() {
+function Videos() {
 
 
   return (
-    
-    <Container>
-      <Card className="portfolioCard">
-        
 
-          <Project _id={data.projects[0]._id}
-            cardTitle={data.projects[0].cardTitle}
-            cardText={data.projects[0].cardText}
-            src={data.projects[0].src}
-            alt={data.projects[0].alt}
-            
-          />
-        
+    <Container>
+      <Card>
+
+
+        <div className="video-responsive">
+          <iframe width="1200" height="800" 
+          src="https://www.youtube.com/embed/Tks_1uCO5kA" 
+          title="YouTube video player" 
+          frameborder="10px" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen></iframe>
+        </div>
+
       </Card>
-      
-      <Card className="portfolioCard">
-        
-          <Project _id={data.projects[1]._id}
-            cardTitle={data.projects[1].cardTitle}
-            cardText={data.projects[1].cardText}
-            src={data.projects[1].src}
-            alt={data.projects[1].alt}
-    
-          />
-        
+
+      <Card className="video-responsive">
+
+      <iframe width="1200" 
+      height="800" 
+      src="https://www.youtube.com/embed/PxUjErnINU4" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+
+      </iframe>
+
       </Card >
-      
-      <Card className="portfolioCard">
-        
-          <Project _id={data.projects[2]._id}
-            cardTitle={data.projects[2].cardTitle}
-            cardText={data.projects[2].cardText}
-            src={data.projects[2].src}
-            alt={data.projects[2].alt}
-           
-          />
-        
+
+      <Card className="video-responsive">
+
+      <iframe 
+      width="1200" 
+      height="800" 
+      src="https://www.youtube.com/embed/4YQh_7LYg-g" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+
+      </iframe>
       </Card >
-      
+
       {/* <Card className="portfolioCard">
         
           <Project _id={data.projects[3]._id}
@@ -86,11 +91,11 @@ function Projects() {
           />
         
       </Card > */}
-    
+
     </Container >
-    
+
   );
 
 }
 
-export default Projects;
+export default Videos;
