@@ -4,6 +4,7 @@ import Card from 'react-bootstrap/Card';
 import "./style.css";
 import Music from '../components/Subcomponents/Music/index'
 import Tour from '../components/Subcomponents/Tour/index'
+import BandPhoto from "../components/Subcomponents/Bandphoto";
 
 
 function Index() {
@@ -16,9 +17,10 @@ function Index() {
     <div>
       <div className="mt-5">
         <div className="p-5">
-         <Music/>
-         <br/>
+        <BandPhoto/>
          <Tour/>
+         <br/>
+         <Music/>
         </div>
       </div>
     </div>
