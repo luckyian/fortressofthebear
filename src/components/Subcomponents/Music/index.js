@@ -8,33 +8,29 @@ function Music() {
 
 
 
-    return (
-        <Card className="aboutBack">
-        <Card.Body className="text">
-          <Card.Title><h1><u>Music</u></h1></Card.Title>
-          <div>
-         <p>
-           
-         <br></br>
-         <h4><a href={"https://youtu.be/Tks_1uCO5kA"}>Song About Rick and Morty </a></h4>
-         <br></br>
-         <h4><a href={"https://youtu.be/PxUjErnINU4"}>Willy's Wonderland</a></h4>
-         <br></br>
-         <h4><a href={"https://youtu.be/4YQh_7LYg-g"}>Flaming Lips Song</a></h4>
-         </p>
-         <br></br>
-         
-         <p>
-              <h3>Available on iTunes</h3>
-              
-             
+  return (
+    <Card className="aboutBack">
+      <Card.Body className="text">
+        <Card.Title><h1><u>Music</u></h1></Card.Title>
+        <div>
+          <iframe src="https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA"
+            width="1200"
+            height="400"
+            frameborder="0"
+            allowtransparency="true"
+            allow="encrypted-media">
 
-          </p>
+          </iframe>
+          <h3>Available on iTunes</h3>
+
+
+
+
 
         </div>
 
-        </Card.Body>
-      </Card>
+      </Card.Body>
+    </Card>
   )
 }
 export default Music;
