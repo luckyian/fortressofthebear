@@ -11,7 +11,7 @@ function Tour() {
     return (
         <Card className="aboutBack">
         <Card.Body className="text">
-          <Card.Title><h1><u>Tour</u></h1></Card.Title>
+          {/* <Card.Title><h1><u>Tour</u></h1></Card.Title> */}
           <div >
             <Card.Img src=".\assets\ontour.png" className="p-2" alt="Touring"></Card.Img>
           </div>

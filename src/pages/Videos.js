@@ -16,11 +16,13 @@ function Videos() {
 
         <div className="video-responsive">
           <iframe width="1200" height="800" 
-          src="https://www.youtube.com/embed/Tks_1uCO5kA" 
+          src="https://www.youtube.com/embed/l3aeCc5ib_k" 
           title="YouTube video player" 
-          frameborder="10px" 
+          frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen></iframe>
+          allowfullscreen>
+
+          </iframe>
         </div>
 
       </Card>
@@ -29,7 +31,7 @@ function Videos() {
 
       <iframe width="1200" 
       height="800" 
-      src="https://www.youtube.com/embed/PxUjErnINU4" 
+      src="https://www.youtube.com/embed/jLK0RlDs6Lc" 
       title="YouTube video player" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -44,7 +46,7 @@ function Videos() {
       <iframe 
       width="1200" 
       height="800" 
-      src="https://www.youtube.com/embed/4YQh_7LYg-g" 
+      src="https://www.youtube.com/embed/ZwtFogVnjeY" 
       title="YouTube video player" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -53,44 +55,37 @@ function Videos() {
       </iframe>
       </Card >
 
-      {/* <Card className="portfolioCard">
-        
-          <Project _id={data.projects[3]._id}
-            cardTitle={data.projects[3].cardTitle}
-            cardText={data.projects[3].cardText}
-            src={data.projects[3].src}
-            alt={data.projects[3].alt}
-            github={data.projects[3].github}
-            project={data.projects[3].project}
-          />
-        
+      <Card className="video-responsive">
+
+      <iframe 
+      width="1200" 
+      height="800" 
+     src="https://www.youtube.com/embed/Tvgx7PzUIZk" 
+     title="YouTube video player" 
+     frameborder="0" 
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+     allowfullscreen>
+
+      </iframe>
+
+      
       </Card >
       
-      <Card className="portfolioCard">
-        
-          <Project _id={data.projects[4]._id}
-            cardTitle={data.projects[4].cardTitle}
-            cardText={data.projects[4].cardText}
-            src={data.projects[4].src}
-            alt={data.projects[4].alt}
-            github={data.projects[4].github}
-            project={data.projects[4].project}
-          />
-        
+      <Card className="video-responsive">
+
+      <iframe 
+      width="1200" 
+      height="800" 
+      src="https://www.youtube.com/embed/nYX29qskmZ0" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+
+      </iframe>
       </Card >
       
-      <Card className="portfolioCard">
-        
-          <Project _id={data.projects[5]._id}
-            cardTitle={data.projects[5].cardTitle}
-            cardText={data.projects[5].cardText}
-            src={data.projects[5].src}
-            alt={data.projects[5].alt}
-            github={data.projects[5].github}
-            project={data.projects[5].project}
-          />
-        
-      </Card > */}
+      
 
     </Container >
 

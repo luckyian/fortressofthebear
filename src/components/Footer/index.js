@@ -6,8 +6,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Footer() {
   return (
-    <footer className="sticky-bottom foot" >
-      &#169; Tom Stegeman
+    <footer className="sticky-bottom foot" variant="dark" >
+      &#169; Fortress of The Bear
     </footer>
   );
 }

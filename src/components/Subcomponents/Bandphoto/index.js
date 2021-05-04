@@ -13,7 +13,7 @@ function BandPhoto() {
             <Card.Body>
                 
                 <div >
-                    <Card.Img src=".\assets\cambodianrockband.jpg" className="p-2" alt="Music"></Card.Img>
+                    <Card.Img src=".\assets\fortressofthebear.jpg"  alt="Music"></Card.Img>
                 </div>
             </Card.Body>
         </Card>
