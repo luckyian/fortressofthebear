@@ -2,7 +2,7 @@
   "name": "fortressofthebear",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://luckyian.github.io/fortressofthebear/",
+  "homepage": " https://fortressofthebear/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
