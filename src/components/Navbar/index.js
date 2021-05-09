@@ -17,11 +17,11 @@ function Navibar() {
             <div className="col-md-3">
                 <Navbar.Collapse id="navbarNavAltMarkup">
                     <Nav>
-                        <Nav.Link className="text" href="/Tom/#/index" >Home</Nav.Link>
-                        <Nav.Link href="/Tom/#/videos" >Videos</Nav.Link>
-                        {/* <Nav.Link href="/Tom/#/store" >Store</Nav.Link> */}
-                        <Nav.Link href="/Tom/#/contact" >Contact</Nav.Link>
-                        {/* <Nav.Link href="/Tom/#/login" >Join</Nav.Link> */}
+                        <Nav.Link className="text" href="/fortressofthebear/#/index" >Home</Nav.Link>
+                        <Nav.Link href="/fortressofthebear/#/videos" >Videos</Nav.Link>
+                        {/* <Nav.Link href="/fortressofthebear/#/store" >Store</Nav.Link> */}
+                        <Nav.Link href="/fortressofthebear/#/contact" >Contact</Nav.Link>
+                        {/* <Nav.Link href="/fortressofthebear/#/login" >Join</Nav.Link> */}
                         <Nav.Link href="#" className="nav-link" tabindex="5" aria-disabled="true"> </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
