@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fortressofthebear/static/css/main.8c15d119.chunk.css",
+    "main.js": "/fortressofthebear/static/js/main.6c8bfeba.chunk.js",
+    "main.js.map": "/fortressofthebear/static/js/main.6c8bfeba.chunk.js.map",
+    "runtime-main.js": "/fortressofthebear/static/js/runtime-main.dc7de93c.js",
+    "runtime-main.js.map": "/fortressofthebear/static/js/runtime-main.dc7de93c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/fortressofthebear/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.40f257c1.chunk.js": "/fortressofthebear/static/js/2.40f257c1.chunk.js",
+    "static/js/2.40f257c1.chunk.js.map": "/fortressofthebear/static/js/2.40f257c1.chunk.js.map",
+    "index.html": "/fortressofthebear/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/fortressofthebear/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8c15d119.chunk.css.map": "/fortressofthebear/static/css/main.8c15d119.chunk.css.map",
+    "static/js/2.40f257c1.chunk.js.LICENSE.txt": "/fortressofthebear/static/js/2.40f257c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc7de93c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.40f257c1.chunk.js",
+    "static/css/main.8c15d119.chunk.css",
+    "static/js/main.6c8bfeba.chunk.js"
+  ]
+}
