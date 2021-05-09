@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "//luckyian.github.io/fortressofthebear/static/css/main.8c15d119.chunk.css",
-    "main.js": "//luckyian.github.io/fortressofthebear/static/js/main.3a89542d.chunk.js",
-    "main.js.map": "//luckyian.github.io/fortressofthebear/static/js/main.3a89542d.chunk.js.map",
+    "main.js": "//luckyian.github.io/fortressofthebear/static/js/main.338a2cd5.chunk.js",
+    "main.js.map": "//luckyian.github.io/fortressofthebear/static/js/main.338a2cd5.chunk.js.map",
     "runtime-main.js": "//luckyian.github.io/fortressofthebear/static/js/runtime-main.16cd717c.js",
     "runtime-main.js.map": "//luckyian.github.io/fortressofthebear/static/js/runtime-main.16cd717c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "//luckyian.github.io/fortressofthebear/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.40f257c1.chunk.js",
     "static/css/main.8c15d119.chunk.css",
-    "static/js/main.3a89542d.chunk.js"
+    "static/js/main.338a2cd5.chunk.js"
   ]
 }
