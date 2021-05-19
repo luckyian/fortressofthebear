@@ -7,6 +7,7 @@ import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Contact from "./pages/Contact";
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
 
           <Route exact path="/" component={Index} />
           <Route exact path="/index" component={Index} />
-  
+          <Route exact path="/contact" component={Contact} />
           <Route exact path="/videos" component={Videos} />
 
         </Wrapper>

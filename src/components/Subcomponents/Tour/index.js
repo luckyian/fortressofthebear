@@ -17,13 +17,8 @@ function Tour() {
           </div>
           <div>
          <p>
-         <h3>Seattle - 8/12 8pm - The Crocodile</h3>
-         <br></br>
-         <h3>Portland - 8/13 8pm - The Rose Theater</h3>
-         <br></br>
-           <h3>Sacramento - 8/15 9pm - Getty's Bar</h3>
-         <br></br>
-           <h3>Oakland - 8/16 9pm - Shaker's Saloon</h3>
+         <h3>Tour Dates TBA</h3>
+         <h4>The band will resume touring when the shows are safe for everyone</h4>
          </p>
          <br></br>
          <br></br>

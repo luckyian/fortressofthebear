@@ -24,3 +24,10 @@
     width: 100%;
     position: absolute;
   }
+  .text{
+    color: antiquewhite;
+  }
+  .text2{
+    color: antiquewhite;
+    text-align: center;
+  }

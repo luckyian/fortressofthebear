@@ -1,6 +1,4 @@
 import React from "react";
-import Project from "../components/Project";
-import data from "../data/projects.json";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
@@ -11,6 +9,7 @@ function Videos() {
   return (
 
     <Container>
+      <br/>
       <Card>
 
 
@@ -26,7 +25,7 @@ function Videos() {
         </div>
 
       </Card>
-
+      <br/>
       <Card className="video-responsive">
 
       <iframe width="1200" 
@@ -40,7 +39,7 @@ function Videos() {
       </iframe>
 
       </Card >
-
+<br/>
       <Card className="video-responsive">
 
       <iframe 
@@ -54,7 +53,7 @@ function Videos() {
 
       </iframe>
       </Card >
-
+      <br/>
       <Card className="video-responsive">
 
       <iframe 
@@ -70,7 +69,7 @@ function Videos() {
 
       
       </Card >
-      
+      <br/>
       <Card className="video-responsive">
 
       <iframe 
