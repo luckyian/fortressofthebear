@@ -25,9 +25,17 @@
     position: absolute;
   }
   .text{
+    /* margin-top: 5%; */
     color: antiquewhite;
   }
   .text2{
     color: antiquewhite;
     text-align: center;
+  }
+  .fontSize{
+    font-size:20px;
+  }
+  .boxer{
+  
+  text-align: center;
   }
