@@ -13,12 +13,25 @@ function Tour() {
         <Card.Body className="text">
           {/* <Card.Title><h1><u>Tour</u></h1></Card.Title> */}
           <div >
-            <Card.Img src=".\assets\ontour.png" className="p-2" alt="Touring"></Card.Img>
+            <Card.Img src=".\assets\ontour2.png" className="p-2" alt="Touring"></Card.Img>
           </div>
           <div>
          <p>
-         <h3>Tour Dates TBA</h3>
-         <h4>The band will resume touring when the shows are safe for everyone</h4>
+         <h3>Tour Dates:</h3>
+         <br></br>
+         <h4>September 4th, 2021 @ 7pm</h4>
+         <h4>Eagle Haven Winery</h4>
+         <h4>
+          <a href="http://www.eaglehavenwinery.com/">Eagle Haven Winery Info</a>
+         </h4>
+         <br></br>
+         <br></br>
+         <br></br>
+         <h4>September 24th, 2021 @ 8pm</h4>
+         <h4>Conor Byrne Tavern</h4>
+         <h4>
+           <a href="https://m.facebook.com/events/252791876484339">Facebook Event Info</a>
+          </h4>
          </p>
          <br></br>
          <br></br>

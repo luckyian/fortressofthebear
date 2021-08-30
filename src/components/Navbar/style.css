@@ -12,5 +12,6 @@ nav.navbar.navbar-default {
 }
 
 .text{
-  color: antiquewhite;
+  color: #f7e290 !important;
+  font-family: 'Raleway', sans-serif;
 }
