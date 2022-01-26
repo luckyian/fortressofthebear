@@ -13,16 +13,19 @@ function Tour() {
         <Card.Body className="text">
           {/* <Card.Title><h1><u>Tour</u></h1></Card.Title> */}
           <div >
-            <Card.Img src=".\assets\ontour2.png" className="p-2" alt="Touring"></Card.Img>
+            <Card.Img src=".\assets\Tour2022.jpg" className="p-2" alt="Touring"></Card.Img>
           </div>
           <div>
          <p>
-         <h3>Tour Dates:</h3>
+
+           {/* <h3>TBD</h3> */}
+           <h3>Check Back Soon for Upcoming Shows</h3>
+         {/* <h3>Tour Dates:</h3>
          <br></br>
-         <h4>September 4th, 2021 @ 7pm</h4>
-         <h4>Eagle Haven Winery</h4>
+         <h4>April 20, 2022 @ 7pm</h4>
+         <h4>Comet Tavern</h4>
          <h4>
-          <a href="http://www.eaglehavenwinery.com/">Eagle Haven Winery Info</a>
+          <a href="http://www.sunnyhillpizza.com/">Sunny Hill Joke</a>
          </h4>
          <br></br>
          <br></br>
@@ -36,7 +39,7 @@ function Tour() {
          <br></br>
          <br></br>
          <p>
-              
+               */}
              
 
           </p>
