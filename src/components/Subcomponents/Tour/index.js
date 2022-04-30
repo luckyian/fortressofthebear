@@ -19,27 +19,62 @@ function Tour() {
          <p>
 
            {/* <h3>TBD</h3> */}
-           <h3>Check Back Soon for Upcoming Shows</h3>
-         {/* <h3>Tour Dates:</h3>
+           {/* <h3>Check Back Soon for Upcoming Shows</h3> */}
+         <h3>Tour Dates:</h3>
          <br></br>
-         <h4>April 20, 2022 @ 7pm</h4>
-         <h4>Comet Tavern</h4>
+         <h4>July 14th, 2022 @ 4pm</h4>
          <h4>
-          <a href="http://www.sunnyhillpizza.com/">Sunny Hill Joke</a>
+          <a href="https://ptmainstreet.org/event/concerts-on-the-dock-2022-07-14/">Concerts on the Dock</a>
+         </h4>
+         <h4>Port Townsend, WA</h4>
+         
+         <br></br>
+         <br></br>
+         <br></br>
+         <h4>July 15th, 2022 @ pm</h4>
+         <h4>
+         <a href="https://www.facebook.com/PTAnchor/">The Archor Port</a>
+         </h4>
+         <h4>Port Townsend, WA</h4>
+         {/* <h4>
+           <a href="https://concrete-wa.com/events/fly-in/">Concrete Fly In</a>
+          </h4> */}
+         <br></br>
+         <br></br>
+         <br></br>
+         <h4>July 16th, 2022 @ pm</h4>
+         <h4>
+           <a href="https://concrete-wa.com/events/fly-in/">Concrete Fly In</a>
+          </h4>
+         <h4>Concrete, WA</h4>
+         
+         <br></br>
+         <br></br>
+         <br></br>
+         <h4>August 27th, 2022 @ pm</h4>
+         <h4>
+         <a href="https://highdiveseattle.com/">High Dive</a>
+         </h4>
+         <h4>Seattle, WA</h4>
+         <h4>
+          {/* <a href="https://highdiveseattle.com/e/calendar/">Concerts on the Dock</a> */}
          </h4>
          <br></br>
          <br></br>
          <br></br>
-         <h4>September 24th, 2021 @ 8pm</h4>
-         <h4>Conor Byrne Tavern</h4>
+         <h4>Semptember 9th, 2022 @ 7pm</h4>
          <h4>
-           <a href="https://m.facebook.com/events/252791876484339">Facebook Event Info</a>
-          </h4>
-         </p>
-         <br></br>
-         <br></br>
-         <p>
-               */}
+          <a href="http://www.eaglehavenwinery.com/summer-concerts.html">Summer Concerts</a>
+         </h4>
+         
+         <h>Outdoor Pavilion</h>
+         <h4>
+         <a href="http://www.eaglehavenwinery.com/">Eagle Haven Winery</a>
+         </h4>
+         <h4>Sedro-Woolley, WA</h4>
+         
+        
+              
              
 
           </p>
