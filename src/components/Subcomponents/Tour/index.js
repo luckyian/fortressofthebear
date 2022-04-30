@@ -31,7 +31,7 @@ function Tour() {
          <br></br>
          <br></br>
          <br></br>
-         <h4>July 15th, 2022 @ pm</h4>
+         <h4>July 15th, 2022</h4>
          <h4>
          <a href="https://www.facebook.com/PTAnchor/">The Archor Port</a>
          </h4>
@@ -42,7 +42,7 @@ function Tour() {
          <br></br>
          <br></br>
          <br></br>
-         <h4>July 16th, 2022 @ pm</h4>
+         <h4>July 16th, 2022</h4>
          <h4>
            <a href="https://concrete-wa.com/events/fly-in/">Concrete Fly In</a>
           </h4>
@@ -51,7 +51,7 @@ function Tour() {
          <br></br>
          <br></br>
          <br></br>
-         <h4>August 27th, 2022 @ pm</h4>
+         <h4>August 27th, 2022</h4>
          <h4>
          <a href="https://highdiveseattle.com/">High Dive</a>
          </h4>
@@ -62,7 +62,7 @@ function Tour() {
          <br></br>
          <br></br>
          <br></br>
-         <h4>Semptember 9th, 2022 @ 7pm</h4>
+         <h4>Semptember 3th, 2022 @ 7pm</h4>
          <h4>
           <a href="http://www.eaglehavenwinery.com/summer-concerts.html">Summer Concerts</a>
          </h4>
