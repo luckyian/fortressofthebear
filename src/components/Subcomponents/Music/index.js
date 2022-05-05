@@ -21,7 +21,7 @@ function Music() {
             allow="encrypted-media">
 
           </iframe>
-          <h3>Available on iTunes</h3>
+          <h3><a href="https://music.apple.com/us/artist/fortress-of-the-bear/1281009078">Available on iTunes</a></h3>
 
 
 
