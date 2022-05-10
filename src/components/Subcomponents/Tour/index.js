@@ -11,16 +11,16 @@ function Tour() {
     return (
         <Card className="aboutBack">
         <Card.Body className="text">
-          {/* <Card.Title><h1><u>Tour</u></h1></Card.Title> */}
+          <Card.Title className="tourTitle">Tour</Card.Title>
           <div >
-            <Card.Img src=".\assets\Tour2022.jpg" className="p-2" alt="Touring"></Card.Img>
+            <Card.Img src=".\assets\Tour2022.jpg" alt="Touring"></Card.Img>
           </div>
           <div>
-         <p>
+         <p className="tourWords">
 
            {/* <h3>TBD</h3> */}
            {/* <h3>Check Back Soon for Upcoming Shows</h3> */}
-         <h3>Tour Dates:</h3>
+         <h1>Tour Dates:</h1>
          <br></br>
          <h4>July 14th, 2022 @ 4pm</h4>
          <h4>
