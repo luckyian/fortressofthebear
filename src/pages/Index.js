@@ -16,11 +16,11 @@ function Index() {
     <div>
       <div className="mt-5">
       <BandPhoto/>
-        <div className="p-5">
+        
          <Tour/>
          <br/>
          <Music/>
-        </div>
+        
       </div>
     </div>
 
