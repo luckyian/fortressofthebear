@@ -33,7 +33,7 @@ function Tour() {
          <br></br>
          <h4>July 15th, 2022</h4>
          <h4>
-         <a href="https://www.facebook.com/PTAnchor/">The Archor Port</a>
+         <a href="https://www.facebook.com/PTAnchor/">The Anchor Port</a>
          </h4>
          <h4>Port Townsend, WA</h4>
          {/* <h4>
