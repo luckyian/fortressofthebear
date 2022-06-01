@@ -51,7 +51,7 @@ function Tour() {
          <br></br>
          <br></br>
          <br></br>
-         <h4>August 27th, 2022</h4>
+         <h4>August 27th, 2022 @ 8pm</h4>
          <h4>
          <a href="https://highdiveseattle.com/">High Dive</a>
          </h4>
