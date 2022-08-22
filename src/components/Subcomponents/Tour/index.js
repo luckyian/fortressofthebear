@@ -22,7 +22,7 @@ function Tour() {
            {/* <h3>Check Back Soon for Upcoming Shows</h3> */}
          <h1>Tour Dates:</h1>
          <br></br>
-         <h4>July 14th, 2022 @ 4pm</h4>
+         {/* <h4>July 14th, 2022 @ 4pm</h4>
          <h4>
           <a href="https://ptmainstreet.org/event/concerts-on-the-dock-2022-07-14/">Concerts on the Dock</a>
          </h4>
@@ -38,7 +38,7 @@ function Tour() {
          <h4>Port Townsend, WA</h4>
          {/* <h4>
            <a href="https://concrete-wa.com/events/fly-in/">Concrete Fly In</a>
-          </h4> */}
+          </h4> }
          <br></br>
          <br></br>
          <br></br>
@@ -46,18 +46,20 @@ function Tour() {
          <h4>
            <a href="https://concrete-wa.com/events/fly-in/">Concrete Fly In</a>
           </h4>
-         <h4>Concrete, WA</h4>
-         
+         <h4>Concrete, WA</h4> 
+         */
+    }
          <br></br>
          <br></br>
          <br></br>
+         <h3>Album Release</h3>
          <h4>August 27th, 2022 @ 8pm</h4>
          <h4>
          <a href="https://highdiveseattle.com/">High Dive</a>
          </h4>
          <h4>Seattle, WA</h4>
          <h4>
-          {/* <a href="https://highdiveseattle.com/e/calendar/">Concerts on the Dock</a> */}
+          <a href="https://www.tixr.com/groups/highdive/events/fortress-of-the-bear-album-release-show-46149">Tickets</a>
          </h4>
          <br></br>
          <br></br>
